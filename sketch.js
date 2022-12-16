@@ -718,7 +718,7 @@ function createStory() {
   right2 = new Scene(
     image55,
     "oppoDesk",
-    "printer",
+    null,
     "otherside2",
     "right1",
     266,
